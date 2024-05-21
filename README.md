@@ -1,5 +1,6 @@
 # GitHubStars
- GitHubStars is a small service that pulls trending repositories from GitHub.
+
+GitHubStars is a small service that pulls trending repositories from GitHub.
 
 ## Configuring the server
 
