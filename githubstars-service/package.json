@@ -1,0 +1,1 @@
+{"name":"githubstars-service","version":"0.0.1","main":"main.mjs","dependencies":{"octokit":"^4.0.2","pg":"^8.11.5"}}
